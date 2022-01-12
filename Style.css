@@ -1,0 +1,22 @@
+.body{
+	background-color: gray;
+}
+
+
+
+
+
+.campo1{
+	background-color: blue;
+	padding: 15px 10px 5px 10px;
+}
+
+.dados_gerais{
+	font-family: italic;
+	color: black;
+}
+
+.conteudo{
+	font-family: ilalic;
+	color: white;
+}
